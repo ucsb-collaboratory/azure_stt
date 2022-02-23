@@ -1,1 +1,3 @@
 testing, testing, 1,2,3...
+
+1. testing that the new favicon is ucsb https://github.com/barryclark/jekyll-now/issues/193 
