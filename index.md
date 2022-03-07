@@ -1,5 +1,3 @@
-# Home
-
 Azure 'Speech-to-text'
 
 Microsoft's Aure Speech to Text allows users to get the transcriptions of audio files.   
