@@ -1,4 +1,8 @@
-# AZURE SDK
+---
+layout: page
+title: Azure SDK
+---
+
 What is it?
 Azure Speech to Text is a program that transcribes an audio file.
 
