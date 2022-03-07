@@ -1,5 +1,4 @@
-# Azure Speech to Text
-
+# Home
 ## What is it?
 
 Azure Speech to Text is a program that transcribes an audio file. 
