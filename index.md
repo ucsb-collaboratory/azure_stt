@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title:Home
 ---
 
 Microsoft's Aure Speech to Text allows users to get the transcriptions of audio files.   
