@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Main
 ---
 
 Azure 'Speech-to-text'
