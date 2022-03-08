@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Azure Transcription - Get Started
+title: Home
 ---
 
 Microsoft's Aure Speech to Text allows users to get the transcriptions of audio files.   
