@@ -3,8 +3,6 @@ layout: page
 title: Main
 ---
 
-Azure 'Speech-to-text'
-
 Microsoft's Aure Speech to Text allows users to get the transcriptions of audio files.   
 
 ## This guide explores two methods:  
