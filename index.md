@@ -25,6 +25,6 @@ This option is best for those who meet any of the following criteria:
 
 **Please note** the above critieria are *recommended* reasons for choosing each option, *not requirments*. 
 
-## Requestion Speech-to-Text
+## Request Speech-to-Text
 Please contact the DREAM Lab if you want a quick transcription file, or if you would
 like access to Azure Speech-to-Text for a more in-depth project.
